@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\bin\Debug\net8.0\MorzeDecoder.exe
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\bin\Debug\net8.0\MorzeDecoder.deps.json
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\bin\Debug\net8.0\MorzeDecoder.runtimeconfig.json
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\bin\Debug\net8.0\MorzeDecoder.dll
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\bin\Debug\net8.0\MorzeDecoder.pdb
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.AssemblyInfo.cs
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.dll
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\refint\MorzeDecoder.dll
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.pdb
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.genruntimeconfig.cache
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\ref\MorzeDecoder.dll

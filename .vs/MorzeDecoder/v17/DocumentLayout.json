@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MorzeDecoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5388E5A-B8F8-41A7-9C49-9A02CD4EF761}|MorzeDecoder\\MorzeDecoder.csproj|c:\\users\\user\\source\\repos\\morzedecoder\\morzedecoder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5388E5A-B8F8-41A7-9C49-9A02CD4EF761}|MorzeDecoder\\MorzeDecoder.csproj|solutionrelative:morzedecoder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MorzeDecoder\\MorzeDecoder\\Program.cs",
+              "RelativeDocumentMoniker": "MorzeDecoder\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MorzeDecoder\\MorzeDecoder\\Program.cs",
+              "RelativeToolTip": "MorzeDecoder\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:12:15.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1091,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
