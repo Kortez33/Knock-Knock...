@@ -12,3 +12,4 @@ C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\refint\Mor
 C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.pdb
 C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.genruntimeconfig.cache
 C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\ref\MorzeDecoder.dll
+C:\Users\User\source\repos\MorzeDecoder\MorzeDecoder\obj\Debug\net8.0\MorzeDecoder.sourcelink.json
