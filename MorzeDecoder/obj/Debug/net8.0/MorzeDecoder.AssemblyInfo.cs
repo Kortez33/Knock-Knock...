@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MorzeDecoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c76093c6816813258077db850f860970d3fb764")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b21f5fb0d1f28c099fd66a7070b883b3e706f636")]
 [assembly: System.Reflection.AssemblyProductAttribute("MorzeDecoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MorzeDecoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
